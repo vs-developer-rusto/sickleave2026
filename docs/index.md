@@ -43,6 +43,6 @@ description: Ориентировочный расчёт больничного 
 
 Это ориентир, не расчёт бухгалтера и не юридическая консультация.
 
-Исходный код: [github.com/VasiliySafrygin/sickleave2026](https://github.com/VasiliySafrygin/sickleave2026)
+Исходный код: [github.com/vs-developer-rusto/sickleave2026](https://github.com/vs-developer-rusto/sickleave2026)
 
-[Политика конфиденциальности](https://github.com/VasiliySafrygin/sickleave2026/blob/main/rustore/privacy_policy.md)
+[Политика конфиденциальности](https://github.com/vs-developer-rusto/sickleave2026/blob/main/rustore/privacy_policy.md)
